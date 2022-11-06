@@ -2,7 +2,6 @@
 
 1. How to start services on local:
 Run the following commands step by step:
-- npm install: Install dependencies
 - ./build.sh: Build docker image of node project
 - docker-compose up: Start MongoDB and node project
 
